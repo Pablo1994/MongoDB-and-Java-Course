@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1245951-b5fd-48cb-b55f-cffec755b1fa" name="Default" comment="crud">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/DocumentRepresentationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/DotNotationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/FieldSelectionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/FindAndModifyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/FindCriteriaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/FindTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FreemarkerSparkMongoDBHelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/InsertTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/SortSkipLimitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/crud/UpdateRemoveTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/FreemarkerSparkHelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/FreemarkerSparkHelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CursoMongo.iml" afterPath="$PROJECT_DIR$/CursoMongo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+    <list default="true" id="c1245951-b5fd-48cb-b55f-cffec755b1fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CursoMongo.iws" />
@@ -100,7 +87,7 @@
       <file leaf-file-name="FieldSelectionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/crud/FieldSelectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44186047">
+            <state vertical-scroll-proportion="2.5581396">
               <caret line="55" column="95" selection-start-line="55" selection-start-column="95" selection-end-line="55" selection-end-column="95" />
               <folding>
                 <element signature="e#0#2201#0" expanded="true" />
@@ -705,7 +692,13 @@
       <option name="project" value="LOCAL" />
       <updated>1433521125333</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="crud">
+      <created>1433526397895</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1433526397895</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1148,7 +1141,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crud/FieldSelectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44186047">
+        <state vertical-scroll-proportion="2.5581396">
           <caret line="55" column="95" selection-start-line="55" selection-start-column="95" selection-end-line="55" selection-end-column="95" />
           <folding>
             <element signature="e#0#2201#0" expanded="true" />
