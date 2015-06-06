@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="CursoMongo" />
+        <module name="M101J" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="CursoMongo" target="1.8" />
+      <module name="CursoMongo" target="1.5" />
+      <module name="M101J" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
