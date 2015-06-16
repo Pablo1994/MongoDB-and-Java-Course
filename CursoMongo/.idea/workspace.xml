@@ -2,154 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1245951-b5fd-48cb-b55f-cffec755b1fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/BlogController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/BlogPostDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/SessionDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/UserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/blog_template.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/entry_template.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/error_template.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/login.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/newpost_template.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/post_not_found.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/run.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/signup.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/welcome.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/create_blog_posts/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/App.class" afterPath="$PROJECT_DIR$/target/classes/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/target/classes/App.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/target/classes/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$1.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$2.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$3.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$4.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$5.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$6.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$7.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$8.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$FreemarkerBasedRoute.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController$FreemarkerBasedRoute.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/BlogController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/DocumentRepresentationTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/DocumentRepresentationTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/DotNotationTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/DotNotationTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/FieldSelectionTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/FieldSelectionTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/FindAndModifyTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/FindAndModifyTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/FindCriteriaTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/FindCriteriaTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/FindTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/FindTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/FreemarkerHelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/FreemarkerHelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/FreemarkerSparkHelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/FreemarkerSparkHelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/FreemarkerSparkMongoDBHelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/FreemarkerSparkMongoDBHelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/InsertTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/InsertTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/target/classes/course/homework/MongoDBSparkFreemarkerStyle$1.class" afterPath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/target/classes/course/homework/MongoDBSparkFreemarkerStyle$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/target/classes/course/homework/MongoDBSparkFreemarkerStyle.class" afterPath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/target/classes/course/homework/MongoDBSparkFreemarkerStyle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/SessionDAO.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/SessionDAO.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/SortSkipLimitTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/SortSkipLimitTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/SparkHelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/SparkHelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/classes/com/mongodb/SparkHomework$1.class" afterPath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/classes/com/mongodb/SparkHomework$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/classes/com/mongodb/SparkHomework.class" afterPath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/classes/com/mongodb/SparkHomework.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/crud/UpdateRemoveTest.class" afterPath="$PROJECT_DIR$/target/classes/crud/UpdateRemoveTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/UserDAO.class" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/course/UserDAO.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/dump/m101/funnynumbers.bson" afterPath="$PROJECT_DIR$/../Tarea 1/dump/m101/funnynumbers.bson" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/dump/m101/hw1.bson" afterPath="$PROJECT_DIR$/../Tarea 1/dump/m101/hw1.bson" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/.directory" afterPath="$PROJECT_DIR$/../Tarea 2/.directory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/.name" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/App.java" afterPath="$PROJECT_DIR$/src/main/java/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/src/main/java/App.java" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/src/main/java/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/java/course/BlogController.java" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/java/course/BlogController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CursoMongo.iml" afterPath="$PROJECT_DIR$/CursoMongo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/DocumentRepresentationTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/DocumentRepresentationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/DotNotationTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/DotNotationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/FieldSelectionTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/FieldSelectionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/FindAndModifyTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/FindAndModifyTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/FindCriteriaTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/FindCriteriaTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/FindTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/FindTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/FreemarkerHelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/FreemarkerHelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/FreemarkerSparkHelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/FreemarkerSparkHelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/FreemarkerSparkMongoDBHelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/FreemarkerSparkMongoDBHelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/InsertTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/InsertTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/M101J.iml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/M101J.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sparkjava_spark_core_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sparkjava_spark_core_1_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sparkjava_spark_core_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sparkjava_spark_core_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_0_2_v20130417.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_0_2_v20130417.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_0_2_v20130417.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_0_2_v20130417.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_0_2_v20130417.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_0_2_v20130417.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_0_2_v20130417.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_0_2_v20130417.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_0_2_v20130417.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_0_2_v20130417.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_0_2_v20130417.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_0_2_v20130417.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_0_2_v20130417.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_0_2_v20130417.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_0_2_v20130417.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_0_2_v20130417.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_19.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_19.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_0_rc0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_0_rc0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/libraries/Maven__org_mongodb_bson_3_0_0_rc0.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/libraries/Maven__org_mongodb_bson_3_0_0_rc0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_0_rc0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_0_rc0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_0_rc0.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_0_rc0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_0_rc0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_0_rc0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_0_rc0.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_0_rc0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/src/main/java/course/homework/MongoDBSparkFreemarkerStyle.java" afterPath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/src/main/java/course/homework/MongoDBSparkFreemarkerStyle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/java/course/SessionDAO.java" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/java/course/SessionDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/SortSkipLimitTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/SortSkipLimitTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/SparkHelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/SparkHelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/hw1-3/src/main/java/com/mongodb/SparkHomework.java" afterPath="$PROJECT_DIR$/../Tarea 1/hw1-3/src/main/java/com/mongodb/SparkHomework.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/Tarea 2.3.iml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/Tarea 2.3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/crud/UpdateRemoveTest.java" afterPath="$PROJECT_DIR$/src/main/java/crud/UpdateRemoveTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/java/course/UserDAO.java" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/java/course/UserDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/hw1-3/src/main/resources/answer.ftl" afterPath="$PROJECT_DIR$/../Tarea 1/hw1-3/src/main/resources/answer.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/classes/answer.ftl" afterPath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/classes/answer.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/src/main/resources/freemarker/answer.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/src/main/resources/freemarker/answer.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/target/classes/freemarker/answer.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/target/classes/freemarker/answer.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/blog_template.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/blog_template.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/blog_template.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/blog_template.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/error_template.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/error_template.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/error_template.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/error_template.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/dump/m101/funnynumbers.metadata.json" afterPath="$PROJECT_DIR$/../Tarea 1/dump/m101/funnynumbers.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/grades.json" afterPath="$PROJECT_DIR$/../Tarea 2/grades.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/hello.ftl" afterPath="$PROJECT_DIR$/src/main/resources/hello.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hello.ftl" afterPath="$PROJECT_DIR$/target/classes/hello.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/dump/m101/hw1.metadata.json" afterPath="$PROJECT_DIR$/../Tarea 1/dump/m101/hw1.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../Tarea 1/hw1-3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/src/main/resources/logback.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/target/classes/logback.xml" afterPath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/target/classes/logback.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/login.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/login.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/login.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/login.ftl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/src/main/java/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/libraries/Maven__org_mongodb_bson_3_0_0_rc0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_0_rc0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_0_rc0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/Remueve Notas.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.1/Remueve Notas/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 3/Tarea 3.2 y 3.3/create_blog_posts/M101J (1).iml" afterPath="$PROJECT_DIR$/../Tarea 3/Tarea 3.2 y 3.3/create_blog_posts/M101J (1).iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 1/hw1-3/pom.xml" afterPath="$PROJECT_DIR$/../Tarea 1/hw1-3/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/pom.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/pom.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/pom.xml" afterPath="$PROJECT_DIR$/../Tarea 2/spark-freemarker-mongodb/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/signup.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/signup.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/signup.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/signup.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/validate.py" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/validate.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/validate_blog.py" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/validate_blog.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/welcome.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/src/main/resources/freemarker/welcome.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/welcome.ftl" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/classes/freemarker/welcome.ftl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Tarea 2/Tarea 2.3/.idea/workspace.xml" />
     </list>
@@ -159,6 +26,7 @@
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/target/" />
     <ignored path="$PROJECT_DIR$/../Tarea 3/blog.31b35ad9baf1/target/" />
+    <ignored path="$PROJECT_DIR$/../Tarea 3/Tarea 3.2 y 3.3/create_blog_posts/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,54 +44,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BlogController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/BlogController.java">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.321428">
-              <caret line="335" column="63" selection-start-line="335" selection-start-column="63" selection-end-line="335" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <element signature="e#0#20811#0" expanded="true" />
-                <element signature="imports" expanded="true" />
+                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entry_template.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/entry_template.ftl">
+      <file leaf-file-name="DocumentRepresentationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crud/DocumentRepresentationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-              <folding />
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#1238#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="error_template.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/error_template.ftl">
+      <file leaf-file-name="FindTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crud/FindTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#2210#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog_template.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/blog_template.ftl">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BlogPostDAO.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/BlogPostDAO.java">
+        <entry file="file://$PROJECT_DIR$/../Tarea 3/Tarea 3.2 y 3.3/create_blog_posts/src/main/java/course/BlogPostDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9851485">
-              <caret line="91" column="47" selection-start-line="91" selection-start-column="47" selection-end-line="91" selection-end-column="47" />
+            <state vertical-scroll-proportion="-1.6938776">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -344,6 +217,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -352,11 +228,94 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoMongo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="create_blog_authors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,7 +331,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tarea 3/blog.31b35ad9baf1/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tarea 3/Tarea 3.2 y 3.3/create_blog_posts/pom.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -721,13 +680,11 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32761312" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32761312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22108346" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -735,13 +692,15 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32761312" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32761312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -769,6 +728,68 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/crud/DocumentRepresentationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1238#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crud/FindTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#2210#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crud/DocumentRepresentationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1238#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crud/FindTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2210#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/hello.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -801,7 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,7 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -887,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -954,13 +972,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crud/DocumentRepresentationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FreemarkerSparkHelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -982,14 +993,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crud/UpdateRemoveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -997,25 +1000,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crud/FindTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Tarea 2/Tarea 2.4/create_blog_authors/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,7 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20846905">
           <caret line="52" column="21" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,23 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/SessionDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3327645">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.070032574">
-          <caret line="44" column="84" selection-start-line="44" selection-start-column="83" selection-end-line="44" selection-end-column="84" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,7 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14983714">
           <caret line="89" column="57" selection-start-line="89" selection-start-column="57" selection-end-line="89" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1063,7 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.76221496">
           <caret line="55" column="114" selection-start-line="55" selection-start-column="114" selection-end-line="55" selection-end-column="114" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09120521">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,7 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.117263846">
           <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,7 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41042346">
           <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,7 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3257329">
           <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,49 +1067,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3469388">
           <caret line="113" column="14" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/error_template.ftl">
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/blog_template.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/resources/freemarker/entry_template.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/BlogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.321428">
-          <caret line="335" column="63" selection-start-line="335" selection-start-column="63" selection-end-line="335" selection-end-column="63" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="e#0#20811#0" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tarea 3/create_blog_posts/src/main/java/course/BlogPostDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/crud/DocumentRepresentationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9851485">
-          <caret line="91" column="47" selection-start-line="91" selection-start-column="47" selection-end-line="91" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1238#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crud/FindTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#2210#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tarea 3/Tarea 3.2 y 3.3/create_blog_posts/src/main/java/course/BlogPostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6938776">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
       </provider>
